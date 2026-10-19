@@ -176,6 +176,376 @@
       "english": [
         "sick"
       ]
+    },
+    {
+      "korean": "아이",
+      "english": [
+        "child",
+        "kid"
+      ]
+    },
+    {
+      "korean": "오이",
+      "english": [
+        "cucumber"
+      ]
+    },
+    {
+      "korean": "여우",
+      "english": [
+        "fox"
+      ]
+    },
+    {
+      "korean": "우유",
+      "english": [
+        "milk"
+      ]
+    },
+    {
+      "korean": "나무",
+      "english": [
+        "tree",
+        "wood"
+      ]
+    },
+    {
+      "korean": "아가",
+      "english": [
+        "baby"
+      ]
+    },
+    {
+      "korean": "모자",
+      "english": [
+        "hat",
+        "cap"
+      ]
+    },
+    {
+      "korean": "바다",
+      "english": [
+        "sea",
+        "ocean"
+      ]
+    },
+    {
+      "korean": "호두",
+      "english": [
+        "walnut"
+      ]
+    },
+    {
+      "korean": "소리",
+      "english": [
+        "sound",
+        "noise"
+      ]
+    },
+    {
+      "korean": "차도",
+      "english": [
+        "road",
+        "roadway"
+      ]
+    },
+    {
+      "korean": "파도",
+      "english": [
+        "wave"
+      ]
+    },
+    {
+      "korean": "곰",
+      "english": [
+        "bear"
+      ]
+    },
+    {
+      "korean": "감",
+      "english": [
+        "persimmon"
+      ]
+    },
+    {
+      "korean": "읽으세요",
+      "english": [
+        "please read",
+        "read"
+      ]
+    },
+    {
+      "korean": "뭐예요",
+      "english": [
+        "what is it",
+        "what is this"
+      ]
+    },
+    {
+      "korean": "나",
+      "english": [
+        "I",
+        "me"
+      ]
+    },
+    {
+      "korean": "너",
+      "english": [
+        "you"
+      ]
+    },
+    {
+      "korean": "우리",
+      "english": [
+        "we",
+        "us",
+        "our"
+      ]
+    },
+    {
+      "korean": "너무",
+      "english": [
+        "too",
+        "very",
+        "too much"
+      ]
+    },
+    {
+      "korean": "머루",
+      "english": [
+        "wild grape"
+      ]
+    },
+    {
+      "korean": "노루",
+      "english": [
+        "roe deer",
+        "deer"
+      ]
+    },
+    {
+      "korean": "머리",
+      "english": [
+        "head",
+        "hair"
+      ]
+    },
+    {
+      "korean": "미리",
+      "english": [
+        "in advance",
+        "beforehand"
+      ]
+    },
+    {
+      "korean": "나리",
+      "english": [
+        "lily"
+      ]
+    },
+    {
+      "korean": "카드",
+      "english": [
+        "card"
+      ]
+    },
+    {
+      "korean": "스키",
+      "english": [
+        "ski",
+        "skiing"
+      ]
+    },
+    {
+      "korean": "코",
+      "english": [
+        "nose"
+      ]
+    },
+    {
+      "korean": "키",
+      "english": [
+        "height",
+        "key"
+      ]
+    },
+    {
+      "korean": "코피",
+      "english": [
+        "nosebleed"
+      ]
+    },
+    {
+      "korean": "커피",
+      "english": [
+        "coffee"
+      ]
+    },
+    {
+      "korean": "차",
+      "english": [
+        "car",
+        "tea"
+      ]
+    },
+    {
+      "korean": "유모차",
+      "english": [
+        "stroller",
+        "baby carriage"
+      ]
+    },
+    {
+      "korean": "마차",
+      "english": [
+        "carriage",
+        "wagon"
+      ]
+    },
+    {
+      "korean": "기차",
+      "english": [
+        "train"
+      ]
+    },
+    {
+      "korean": "포도",
+      "english": [
+        "grape",
+        "grapes"
+      ]
+    },
+    {
+      "korean": "마스크",
+      "english": [
+        "mask"
+      ]
+    },
+    {
+      "korean": "마이크",
+      "english": [
+        "microphone",
+        "mic"
+      ]
+    },
+    {
+      "korean": "하마",
+      "english": [
+        "hippo",
+        "hippopotamus"
+      ]
+    },
+    {
+      "korean": "호미",
+      "english": [
+        "hoe"
+      ]
+    },
+    {
+      "korean": "나이키",
+      "english": [
+        "Nike"
+      ]
+    },
+    {
+      "korean": "피부",
+      "english": [
+        "skin"
+      ]
+    },
+    {
+      "korean": "하루",
+      "english": [
+        "day",
+        "one day"
+      ]
+    },
+    {
+      "korean": "쿠키",
+      "english": [
+        "cookie"
+      ]
+    },
+    {
+      "korean": "아이스티",
+      "english": [
+        "iced tea",
+        "ice tea"
+      ]
+    },
+    {
+      "korean": "티비",
+      "english": [
+        "TV",
+        "television"
+      ]
+    },
+    {
+      "korean": "피자",
+      "english": [
+        "pizza"
+      ]
+    },
+    {
+      "korean": "흐려요",
+      "english": [
+        "it's cloudy",
+        "cloudy"
+      ]
+    },
+    {
+      "korean": "발",
+      "english": [
+        "foot"
+      ]
+    },
+    {
+      "korean": "팔",
+      "english": [
+        "arm"
+      ]
+    },
+    {
+      "korean": "동",
+      "english": [
+        "east"
+      ]
+    },
+    {
+      "korean": "통",
+      "english": [
+        "drum",
+        "barrel",
+        "container"
+      ]
+    },
+    {
+      "korean": "기자",
+      "english": [
+        "reporter",
+        "journalist"
+      ]
+    },
+    {
+      "korean": "그림",
+      "english": [
+        "picture",
+        "drawing",
+        "painting"
+      ]
+    },
+    {
+      "korean": "크림",
+      "english": [
+        "cream"
+      ]
+    },
+    {
+      "korean": "감사합니다",
+      "english": [
+        "thank you",
+        "thanks"
+      ]
     }
   ]
 }

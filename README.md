@@ -33,6 +33,8 @@ Check the output: the script merges duplicate words but won't catch typos in the
 
 Any of the English meanings is accepted in typing mode.
 
+`week-1.json` also has words added by hand from the Week 1 class slides, so don't regenerate it from the PDF (that would drop them). Use the script for new weeks only.
+
 ## Deploying
 
 Hosted on Vercel as a static Vite site; no extra config needed. Pushing to `main` redeploys.
