@@ -50,7 +50,9 @@ export function checkKorean(target: string, input: string): KoreanMatch {
 function normalizeEnglish(text: string): string {
   return text
     .toLowerCase()
-    .replace(/[^a-z0-9'\s]/g, " ")
+    // Apostrophes are optional ("im" = "i'm"), including phones' curly ones.
+    .replace(/['’]/g, "")
+    .replace(/[^a-z0-9\s]/g, " ")
     .replace(/\s+/g, " ")
     .trimStart();
 }

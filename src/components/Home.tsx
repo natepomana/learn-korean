@@ -1,9 +1,13 @@
 import { DECKS } from "../lib/decks";
+import type { Theme } from "../lib/theme";
+import { Segmented } from "./SessionLayout";
 
 interface Props {
   selected: string[];
   onSelect: (ids: string[]) => void;
   wordCount: number;
+  theme: Theme;
+  onThemeChange: (theme: Theme) => void;
 }
 
 const MODES = [
@@ -21,7 +25,7 @@ const MODES = [
   },
 ];
 
-export function Home({ selected, onSelect, wordCount }: Props) {
+export function Home({ selected, onSelect, wordCount, theme, onThemeChange }: Props) {
   const toggle = (id: string) => {
     const next = selected.includes(id) ? selected.filter((d) => d !== id) : [...selected, id];
     // Keep at least one deck selected.
@@ -30,9 +34,21 @@ export function Home({ selected, onSelect, wordCount }: Props) {
 
   return (
     <main className="flex flex-1 flex-col gap-8 py-6 sm:py-12">
-      <header>
-        <p className="text-sm font-medium tracking-wide text-pink-600 dark:text-pink-400">한국어 연습</p>
-        <h1 className="mt-1 text-3xl font-bold tracking-tight sm:text-4xl">Learn Korean</h1>
+      <header className="flex items-start justify-between gap-4">
+        <div>
+          <p className="text-sm font-medium tracking-wide text-pink-600 dark:text-pink-400">한국어 연습</p>
+          <h1 className="mt-1 text-3xl font-bold tracking-tight sm:text-4xl">Learn Korean</h1>
+        </div>
+        <Segmented
+          label="Theme"
+          value={theme}
+          onChange={onThemeChange}
+          options={[
+            { value: "system", label: "Auto" },
+            { value: "light", label: "☀️" },
+            { value: "dark", label: "🌙" },
+          ]}
+        />
       </header>
 
       <section>

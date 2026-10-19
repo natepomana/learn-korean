@@ -75,6 +75,13 @@ describe("checkEnglish", () => {
     expect(checkEnglish(["throw away"], "throw a").status).toBe("partial");
   });
 
+  it("treats apostrophes as optional, straight or curly", () => {
+    for (const typed of ["I'm sorry", "im sorry", "I’m sorry"]) {
+      expect(checkEnglish(["I'm sorry"], typed).status).toBe("correct");
+    }
+    expect(checkEnglish(["it's okay"], "it'").status).toBe("partial");
+  });
+
   it("is wrong once the input can't become a meaning", () => {
     expect(checkEnglish(meanings, "wo").status).toBe("wrong");
   });
