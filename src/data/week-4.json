@@ -1,0 +1,31 @@
+{
+  "id": "week-4",
+  "title": "Week 4",
+  "cards": [
+    { "korean": "번개", "english": ["lightning"] },
+    { "korean": "계이름", "english": ["note names", "solfege"] },
+    { "korean": "야경", "english": ["night view"] },
+    { "korean": "새집", "english": ["new house", "birdhouse"] },
+    { "korean": "재미", "english": ["fun"] },
+    { "korean": "핫도그", "english": ["hot dog", "hotdog", "corn dog"] },
+    { "korean": "도레미", "english": ["do re mi"] },
+    { "korean": "맥주", "english": ["beer"] },
+    { "korean": "욕조", "english": ["bathtub", "tub"] },
+    { "korean": "예산", "english": ["budget"] },
+    { "korean": "양복", "english": ["suit"] },
+    { "korean": "레고", "english": ["Lego"] },
+    { "korean": "무게", "english": ["weight"] },
+    { "korean": "이메일", "english": ["email", "e-mail"] },
+    { "korean": "매일", "english": ["every day", "daily"] },
+    { "korean": "제주도", "english": ["Jeju Island", "Jeju"] },
+    { "korean": "유산", "english": ["heritage", "inheritance", "legacy"] },
+    { "korean": "대한민국", "english": ["Republic of Korea", "South Korea", "Korea"] },
+    { "korean": "예리", "english": ["keen", "sharp"] },
+    { "korean": "찾다", "english": ["find", "look for"] },
+    { "korean": "일기예보", "english": ["weather forecast", "forecast"] },
+    { "korean": "받침", "english": ["final consonant", "batchim"] },
+    { "korean": "계산", "english": ["calculation", "the bill", "paying"] },
+    { "korean": "자유", "english": ["freedom", "liberty"] },
+    { "korean": "잣", "english": ["pine nut", "pine nuts"] }
+  ]
+}

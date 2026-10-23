@@ -29,5 +29,8 @@ export default defineConfig({
   ],
   test: {
     include: ["src/**/*.test.ts"],
+    // The on-disk module cache doesn't notice new files matching
+    // import.meta.glob, so newly added decks would silently go untested.
+    fsModuleCache: false,
   },
 });
